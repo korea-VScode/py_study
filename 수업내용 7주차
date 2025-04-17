@@ -19,4 +19,4 @@ print(type(output_a), output_a)
 print(type(output_b), output_b)
 '''
 
-intput_a = float(input("첫번째 숫자 > "))
+
