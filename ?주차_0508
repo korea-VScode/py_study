@@ -17,6 +17,7 @@ if True:
     print("정말 true입나다...!")
 #두 라인 모두 조건문의 실행코드임, 들여쓰기 된 곳만 if조건문의 범위임
 '''
+# 고려대학교 학과 학번 이름
 num = int(input("num의 값은 : "))
 if num > 0:
     print(num,"양수입니다.")
