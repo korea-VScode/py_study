@@ -1,1 +1,11 @@
-upper(),lower()
+'''
+print("3 + 4  = ", 3 + 4)
+print()
+a = "3 + 4 = {}".format(3+4) #fprmat함수 시험에 나옴!!!
+print(a)
+print()
+b=f"3 + 4 = {3+4}" #f-함수
+print("b=>",b)
+#format함수 시험에 나옴!!!
+#list개념 설명
+'''
