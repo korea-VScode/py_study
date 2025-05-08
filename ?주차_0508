@@ -6,7 +6,14 @@ print(a)
 print()
 b=f"3 + 4 = {3+4}" #f-함수
 print("b=>",b)
-#format함수 시험에 나옴!!!
+#format 함수 시험에 나옴!!!
 #list개념 설명
 #조건문 if
+#논리 연산자 and, or, xor, not
+#연산자와 피연산자 구분
+
+if True:
+    print("true입니다...!")
+    print("정말 true입나다...!")
+#두 라인 모두 조건문의 실행코드임, 들여쓰기 된 곳만 if조건문의 범위임
 '''
