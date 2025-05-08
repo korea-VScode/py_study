@@ -12,11 +12,21 @@ print("b=>",b)
 #논리 연산자 and, or, xor, not
 #연산자와 피연산자 구분
 
+# 모듈
+import datetime
+now = datetime.datetime.now()
+print(now.year, "년")
+print(now.month, "월")
+print(now.day, "일")
+print(now.hour, "시")
+print(now.minute, "분")
+print(now.second, "초")
+
 if True:
     print("true입니다...!")
     print("정말 true입나다...!")
 #두 라인 모두 조건문의 실행코드임, 들여쓰기 된 곳만 if조건문의 범위임
-'''
+
 # 고려대학교 학과 학번 이름
 num = int(input("num의 값은 : "))
 if num > 0:
@@ -25,3 +35,4 @@ elif num < 0:
     print(num,"음수입니다.")
 else:
     print(num,"0입니다.")
+'''
